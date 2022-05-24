@@ -1,0 +1,23 @@
+[33mcommit ac7ace87a8657c7a6db14bfb883fe36f795e467d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: saciar-dev <aciarenator@gmail.com>
+Date:   Mon May 23 21:03:40 2022 -0300
+
+    agregue archivo prueba.js
+
+[33mcommit 7248089139b788deb38b1c37e876cda5337cc2bd[m
+Author: saciar-dev <aciarenator@gmail.com>
+Date:   Fri May 20 18:46:51 2022 -0300
+
+    Agregue un console.log
+
+[33mcommit db0dd7c0264d5aa3976d6c4e59229ebe4d7d255f[m
+Author: saciar-dev <aciarenator@gmail.com>
+Date:   Fri May 20 18:43:07 2022 -0300
+
+    Cree el script de funciones
+
+[33mcommit 4347a4b229b357b245f31ff60080aceb02622b47[m
+Author: --global <--global>
+Date:   Fri May 20 18:37:33 2022 -0300
+
+    creando proyecto de introduccion a la informatica con git
